@@ -2,7 +2,7 @@
     "id": "featsplus",
     "title": "Feats+",
     "description": "An unofficial import of Feats+",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "authors": [
 		{
 			"name": "Mikaelobos, Kuraiishi, and Team+",
@@ -72,6 +72,15 @@
 			"system": "pf2e",
 			"private": false,
 			"flags": {}
+        },
+		{
+            "name": "macros",
+            "label": "Macros",
+            "path": "./packs/macros.db",
+            "type": "Macro",
+			"system": "pf2e",
+			"private": false,
+			"flags": {}
         }
     ],
 	"packFolders": [
@@ -81,7 +90,8 @@
 		  "packs": [
 			"feats",
 			"actions",
-			"effects"
+			"effects",
+			"macros"
 		  ]
 		}
 	],
