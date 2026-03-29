@@ -1,5 +1,5 @@
-2026/03/28-22:32:59.533 2a60 Recovering log #63
-2026/03/28-22:32:59.533 2a60 Level-0 table #65: started
-2026/03/28-22:32:59.537 2a60 Level-0 table #65: 11042 bytes OK
-2026/03/28-22:32:59.544 2a60 Delete type=0 #63
-2026/03/28-22:32:59.545 2a60 Delete type=3 #61
+2026/03/29-01:36:14.526 3fb0 Recovering log #66
+2026/03/29-01:36:14.526 3fb0 Level-0 table #68: started
+2026/03/29-01:36:14.526 3fb0 Level-0 table #68: 9949 bytes OK
+2026/03/29-01:36:14.536 3fb0 Delete type=0 #66
+2026/03/29-01:36:14.536 3fb0 Delete type=3 #64
